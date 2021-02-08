@@ -1,4 +1,4 @@
-# Precdiction_of_Landscapes
+# Prediction_of_Landscapes
 
 # ABSTRACT
 Landscapes are meaningful ecological units that strongly depend on the environmental conditions.
